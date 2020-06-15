@@ -1,6 +1,6 @@
 from smtplib import SMTP_SSL
 from email.message import EmailMessage
-__name__ = 'smtpgmail'
+__name__ = 'gmailmessage'
 __author__ = 'Pranav Balaji Pooruli'
 __email__ = 'pranav.pooruli@gmail.com'
 __version__ = '0.0.1'
