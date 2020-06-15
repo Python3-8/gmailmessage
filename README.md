@@ -1,4 +1,4 @@
-# **SMTPGmail**
+# **GmailMessage**
 
 > _This is a package built to make it easy for  
 people trying to send Gmail messages with  
